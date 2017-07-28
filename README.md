@@ -1,5 +1,5 @@
 # CBIR
-image retrival by caffe
+Image retrival by caffe
 
 How the use this project files
 step-1
