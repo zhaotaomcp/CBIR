@@ -16,3 +16,5 @@ Dump the fc8 features by lsh
 step-5
 app_cbir.py
 Upload a imagefile and search the similar images
+
+Cite https://github.com/kevinlin311tw/caffe-cvprw15
