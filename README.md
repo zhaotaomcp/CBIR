@@ -29,3 +29,5 @@ Cite the paper:
 Deep Learning of Binary Hash Codes for Fast Image Retrieval
 K. Lin, H.-F. Yang, J.-H. Hsiao, C.-S. Chen
 CVPR Workshop (CVPRW) on Deep Learning in Computer Vision, DeepVision 2015, June 2015.
+
+![image](https://github.com/zhaotaomcp/CBIR/blob/master/screenshots/Image_retrieval.png)
